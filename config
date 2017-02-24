@@ -6,7 +6,7 @@ author                    : Peter Širka
 manager-url               : /$manager
 
 // Hidden super admin in the form username:password
-manager-superadmin        : admin:admin
+manager-superadmin        : ngocnm:ngocnm77
 
 // Custom SMTP settings
 mail.smtp                 : YOUR.SMTPSERVER.COM
@@ -14,7 +14,7 @@ mail.smtp                 : YOUR.SMTPSERVER.COM
 
 // Gmail SMTP settings
 // mail.smtp                : smtp.gmail.com
-// mail.smtp.options        : {"port":465,"secure":true,"user":"ENTER_YOUR_EMAIL","password":"ENTER_YOUR_PASSWORD","rejectUnauthorized":true}
+// mail.smtp.options        : {"port":465,"secure":true,"user":"geramshop.com.info@gmail.com","password":"geramshop12345","rejectUnauthorized":true}
 
 // Office365 SMTP settings
 // mail.smtp                : smtp.office365.com
